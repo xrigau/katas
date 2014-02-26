@@ -1,3 +1,9 @@
+Refactoring kata
+===
+
+This has been done during a Software Craftsmanship pairing session about refactoring legacy code.
+
+
 Gilded Rose
 ===========
 
